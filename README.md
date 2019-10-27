@@ -1,6 +1,6 @@
-# SCHacks
+# Hack Davidson
 
-Website for [Hack Club](https://hackclub.com) at State College Area High School.
+Website for [Hack Club](https://hackclub.github.io) at Community School of Davidson.
 
 Built with [Tachyons](http://tachyons.io).
 
