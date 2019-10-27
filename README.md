@@ -1,2 +1,0 @@
-# hackdavidson.github.io
-website
